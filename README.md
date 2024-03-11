@@ -53,7 +53,10 @@ The proxy manager enables external proxies to be added to the program and tested
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/20MH1A04H9/OPenBullet/blob/main/img/1.webp)
+![App Screenshot](https://github.com/20MH1A04H9/OPenBullet/blob/main/img/2.webp)
+![App Screenshot](https://github.com/20MH1A04H9/OPenBullet/blob/main/img/3.webp)
+![App Screenshot](https://github.com/20MH1A04H9/OPenBullet/blob/main/img/4.webp)
 
 
 ## License
