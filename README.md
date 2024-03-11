@@ -1,7 +1,7 @@
 
 # OpenBullet
-![logo](https://github.com/20MH1A04H9/20MH1A04H9/blob/main/github_banner.png)
-IMPORTANT NOTICE
+![logo](https://github.com/20MH1A04H9/OPenBullet/blob/main/img/logo.webp)
+
 
 OpenBullet is an automation tool that can automate many repetitive tasks on websites. This can include filling out forms with data from lists or files, submitting data to websites, and collecting information from websites. For example, a company might use OpenBullet to automatically create and submit customer support tickets, or to collect product data from a variety of websites.
 
